@@ -1,0 +1,1 @@
+<div class=" w3-container w3-padding-16" style="margin-top:180px;padding-right:58px;background-color:#177F7D"><p class="w3-right" style="color:white;">Powered by <a href="#" title="W3.CSS" target="_blank" class="w3-hover-opacity">ONE TOUCH TRACKER</a></p></div>
